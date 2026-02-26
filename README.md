@@ -25,6 +25,8 @@ The course’s problem sets forced me to think algorithmically, structure code c
   My capstone project submitted via me50 (private repo: github.com/me50/Sogonna/tree/cs50/problems/2024/x/project).  
   This is a personal recreation after losing local files. Original is private per CS50 policy.
 
+**CS50 Certificate**: [View my official certificate](https://cs50.harvard.edu/certificates/e1ddb6fa-63ca-4fba-9dde-1554044e11d9)
+
 ### Technologies & languages
 
 - C (low-level programming and memory)
